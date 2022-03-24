@@ -7,9 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "WB",
-  "license": "MIT",
+  "license": "MIT"
   "dependencies": {
-    "request-promis": "^0.0.1-security",
-    "request-promise": "^4.2.6"
+    ""
   }
 }

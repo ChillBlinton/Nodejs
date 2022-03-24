@@ -6,4 +6,5 @@ request{'https://reddit.com/r/popular.json', (err, res, body) => {
 
     console.log(res);
 
+    fs.writefile(dataPath, res.title)
 });
